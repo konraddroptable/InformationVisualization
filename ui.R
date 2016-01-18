@@ -1,32 +1,44 @@
-
-# This is the user-interface definition of a Shiny web application.
-# You can find out more about building applications with Shiny here:
-#
-# http://shiny.rstudio.com
-#
-
 library(shiny)
-
+library(ggplot2)
+library(dplyr)
+library(plotly)
 
 
 shinyUI(fluidPage(
-
   # Application title
-  titlePanel("Old Faithful Geyser Data"),
+  titlePanel("Religions across the world"),
+  
 
   # Sidebar with a slider input for number of bins
   sidebarLayout(
     sidebarPanel(
-      sliderInput("bins",
-                  "Number of bins:",
-                  min = 1,
-                  max = 50,
-                  value = 30)
+      selectInput("countryId", 
+                  label = "Choose country", 
+                  choices = c("Europe", "United States of America"),
+                  selected = "Europe"),
+      
+      sliderInput("sliderInput",
+                  label = "Year",
+                  min = 1945,
+                  max = 2010,
+                  value = 2010,
+                  step = 5,
+                  animate = animationOptions(interval = 1000, loop = FALSE))
     ),
 
-    # Show a plot of the generated distribution
+    # Main panel
     mainPanel(
-      plotOutput("distPlot")
-    )
-  )
+      tabsetPanel(type = "tabs",
+                  tabPanel("Structure", column(width = 12,
+                                               h4("Religion structure"),
+                                               plotly::plotlyOutput("barChart"))),
+                  tabPanel("Trend", column(width = 12, 
+                                           h4("Changes in religion structure over time"),
+                                           plotly::plotlyOutput("linearChart"))),
+                  tabPanel("Map", column(width = 12,
+                                         h4("Most popular religions on every region (continent)"),
+                                         plotly::plotlyOutput("mapChart", width = "100%", height = "500px"),
+                                         h4("Summary"),
+                                         tableOutput("mapChartSummary")))
+      )))
 ))

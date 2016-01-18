@@ -1,0 +1,190 @@
+id;code2;code3;continent
+Afghanistan;AF;AFG;Asia
+Albania;AL;ALB;Europe
+Algeria;DZ;DZA;Africa
+Andorra;AD;AND;Europe
+Angola;AO;AGO;Africa
+Antigua & Barbuda;AG;ATG;North America
+Argentina;AR;ARG;South America
+Armenia;AM;ARM;Asia
+Australia;AU;AUS;Australia
+Austria;AT;AUT;Europe
+Azerbaijan;AZ;AZE;Asia
+Bahamas;BS;BHS;North America
+Bahrain;BH;BHR;Asia
+Bangladesh;BD;BGD;Asia
+Barbados;BB;BRB;North America
+Belarus;BY;BLR;Europe
+Belgium;BE;BEL;Europe
+Belize;BZ;BLZ;North America
+Benin;BJ;BEN;Africa
+Bhutan;BT;BTN;Asia
+Bolivia;BO;BOL;South America
+Bosnia and Herzegovina;BA;BIH;Europe
+Botswana;BW;BWA;Africa
+Brazil;BR;BRA;South America
+Brunei;BN;BRN;Asia
+Bulgaria;BG;BGR;Europe
+Burkina Faso;BF;BFA;Africa
+Burundi;BI;BDI;Africa
+Cambodia;KH;KHM;Asia
+Cameroon;CM;CMR;Africa
+Canada;CA;CAN;North America
+Cape Verde;CV;CPV;Africa
+Central African Republic;CF;CAF;Africa
+Chad;TD;TCD;Africa
+Chile;CL;CHL;South America
+China;CN;CHN;Asia
+Colombia;CO;COL;South America
+Comoros;KM;COM;Africa
+Congo;CD;COD;Africa
+Costa Rica;CR;CRI;North America
+Croatia;HR;HRV;Europe
+Cuba;CU;CUB;North America
+Cyprus;CY;CYP;Asia
+Czech Republic;CZ;CZE;Europe
+Denmark;DK;DNK;Europe
+Djibouti;DJ;DJI;Africa
+Dominica;DM;DMA;North America
+Dominican Republic;DO;DOM;North America
+East Timor;TL;TLS;Asia
+Ecuador;EC;ECU;South America
+Egypt;EG;EGY;Africa
+El Salvador;SV;SLV;North America
+Equatorial Guinea;GQ;GNQ;Africa
+Eritrea;ER;ERI;Africa
+Estonia;EE;EST;Europe
+Ethiopia;ET;ETH;Africa
+Federated States of Micronesia;FM;FSM;Australia
+Fiji;FJ;FJI;Australia
+Finland;FI;FIN;Europe
+France;FR;FRA;Europe
+Gabon;GA;GAB;Africa
+Gambia;GM;GMB;Africa
+Georgia;GE;GEO;Asia
+Germany;DE;DEU;Europe
+Ghana;GH;GHA;Africa
+Greece;GR;GRC;Europe
+Grenada;GD;GRD;North America
+Guatemala;GT;GTM;North America
+Guinea;GN;GIN;Africa
+Guinea-Bissau;GW;GNB;Africa
+Guyana;GY;GUY;South America
+Haiti;HT;HTI;North America
+Honduras;HN;HND;North America
+Hungary;HU;HUN;Europe
+Iceland;IS;ISL;Europe
+India;IN;IND;Asia
+Indonesia;ID;IDN;Asia
+Iran;IR;IRN;Asia
+Iraq;IQ;IRQ;Asia
+Ireland;IE;IRL;Europe
+Israel;IL;ISR;Asia
+Italy;IT;ITA;Europe
+Jamaica;JM;JAM;North America
+Japan;JP;JPN;Asia
+Jordan;JO;JOR;Asia
+Kazakhstan;KZ;KAZ;Asia
+Kenya;KE;KEN;Africa
+Kiribati;KI;KIR;Australia
+Kuwait;KW;KWT;Asia
+Kyrgyzstan;KG;KGZ;Asia
+Laos;LA;LAO;Asia
+Latvia;LV;LVA;Europe
+Lebanon;LB;LBN;Asia
+Lesotho;LS;LSO;Africa
+Liberia;LR;LBR;Africa
+Libya;LY;LBY;Africa
+Liechtenstein;LI;LIE;Europe
+Lithuania;LT;LTU;Europe
+Luxembourg;LU;LUX;Europe
+Macedonia;MK;MKD;Europe
+Madagascar;MG;MDG;Africa
+Malawi;MW;MWI;Africa
+Malaysia;MY;MYS;Asia
+Maldives;MV;MDV;Asia
+Mali;ML;MLI;Africa
+Malta;MT;MLT;Europe
+Marshall Islands;MH;MHL;Australia
+Mauritania;MR;MRT;Africa
+Mauritius;MU;MUS;Africa
+Mexico;MX;MEX;North America
+Moldova;MD;MDA;Europe
+Monaco;MC;MCO;Europe
+Mongolia;MN;MNG;Asia
+Morocco;MA;MAR;Africa
+Mozambique;MZ;MOZ;Africa
+Myanmar;MM;MMR;Asia
+Namibia;NA;NAM;Africa
+Nauru;NR;NRU;Australia
+Nepal;NP;NPL;Asia
+Netherlands;NL;NLD;Europe
+New Zealand;NZ;NZL;Australia
+Nicaragua;NI;NIC;North America
+Niger;NE;NER;Africa
+Nigeria;NG;NGA;Africa
+North Korea;KP;PRK;Asia
+Norway;NO;NOR;Europe
+Oman;OM;OMN;Asia
+Pakistan;PK;PAK;Asia
+Palau;PW;PLW;Australia
+Panama;PA;PAN;North America
+Papua New Guinea;PG;PNG;Australia
+Paraguay;PY;PRY;South America
+Peru;PE;PER;South America
+Philippines;PH;PHL;Asia
+Poland;PL;POL;Europe
+Portugal;PT;PRT;Europe
+Qatar;QA;QAT;Asia
+Romania;RO;ROU;Europe
+Russia;RU;RUS;Europe
+Rwanda;RW;RWA;Africa
+Samoa;WS;WSM;Australia
+San Marino;SM;SMR;Europe
+Sao Tome and Principe;ST;STP;Africa
+Saudi Arabia;SA;SAU;Asia
+Senegal;SN;SEN;Africa
+Seychelles;SC;SYC;Africa
+Sierra Leone;SL;SLE;Africa
+Singapore;SG;SGP;Asia
+Slovakia;SK;SVK;Europe
+Slovenia;SI;SVN;Europe
+Solomon Islands;SB;SLB;Australia
+Somalia;SO;SOM;Africa
+South Africa;ZA;ZAF;Africa
+South Korea;KR;KOR;Asia
+Spain;ES;ESP;Europe
+Sri Lanka;LK;LKA;Asia
+St. Kitts and Nevis;KN;KNA;North America
+St. Lucia;LC;LCA;North America
+St. Vincent and the Grenadines;VC;VCT;North America
+Sudan;SD;SDN;Africa
+Suriname;SR;SUR;South America
+Swaziland;SZ;SWZ;Africa
+Sweden;SE;SWE;Europe
+Switzerland;CH;CHE;Europe
+Syria;SY;SYR;Asia
+Taiwan;TW;TWN;Asia
+Tajikistan;TJ;TJK;Asia
+Tanzania;TZ;TZA;Africa
+Thailand;TH;THA;Asia
+Togo;TG;TGO;Africa
+Tonga;TO;TON;Australia
+Trinidad and Tobago;TT;TTO;North America
+Tunisia;TN;TUN;Africa
+Turkey;TR;TUR;Europe
+Turkmenistan;TM;TKM;Asia
+Tuvalu;TV;TUV;Australia
+Uganda;UG;UGA;Africa
+Ukraine;UA;UKR;Europe
+United Arab Emirates;AE;ARE;Asia
+United Kingdom;GB;GBR;Europe
+United States of America;US;USA;North America
+Uruguay;UY;URY;South America
+Uzbekistan;UZ;UZB;Asia
+Vanuatu;VU;VUT;Australia
+Venezuela;VE;VEN;South America
+Vietnam;VN;VNM;Asia
+Yemen;YE;YEM;Asia
+Zambia;ZM;ZMB;Africa
+Zimbabwe;ZW;ZWE;Africa
